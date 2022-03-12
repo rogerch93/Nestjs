@@ -1,6 +1,6 @@
-#NestJs
-##Crud com NestJs
+# NestJs
+## Crud com NestJs
 ### Este crud foi criado apenas para suprir minha curiosidade sobre a tecnologia e ter o aprendizado básico sobre o framework.
-##Linguagens utilizada
+## Linguagens utilizada
 > - TypeScript.
 > - Utilizei o Insomnia para executar os teste da aplicação.
